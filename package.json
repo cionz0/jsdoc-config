@@ -1,0 +1,33 @@
+{
+  "name": "jsdoc-config",
+  "version": "1.0.0",
+  "description": "My jsdoc configuration",
+  "main": "src/index.js",
+  "bin": {
+    "jsdoc-config": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cionz0/jsdoc-config.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "config",
+    "node",
+    "nodejs",
+    "documentation"
+  ],
+  "author": "cionzo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cionz0/jsdoc-config/issues"
+  },
+  "homepage": "https://github.com/cionz0/jsdoc-config#readme",
+  "install_from_git": "only",
+  "dependencies": {
+    "jsdoc-template": "github:braintree/jsdoc-template"
+  }
+}
