@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 
 "use strict";
 
@@ -30,7 +30,7 @@ module.exports = {
         destination: "./docs/jsdoc",
         recurse: true,
         readme: "../README.md",
-        template: "./node_modules/jsdoc-template",
+        // template: "./node_modules/jsdoc-template",
         // hostname: "pippo"
     },
     "cionzo": {
