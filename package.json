@@ -1,5 +1,5 @@
 {
-  "name": "jsdoc-config",
+  "name": "@cionzo/jsdoc-config",
   "version": "1.0.0",
   "description": "My jsdoc configuration",
   "main": "src/index.js",
