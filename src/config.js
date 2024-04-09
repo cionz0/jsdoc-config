@@ -48,12 +48,12 @@ module.exports = {
             "meta": [
                 {
                     "name": "author",
-                    "content": "Ankit Kumar"
+                    "content": "cionzo"
                 },
-                {
-                    "name": "description",
-                    "content": "Best Clean and minimal JSDoc 3 Template/Theme"
-                }
+                // {
+                //     "name": "description",
+                //     "content": "Best Clean and minimal JSDoc 3 Template/Theme"
+                // }
             ],
             "footer": "This is footer" // or <div class="footer-wrapper">This is a footer </div>
         }
