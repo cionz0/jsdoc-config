@@ -30,7 +30,7 @@ module.exports = {
         destination: "./docs/jsdoc",
         recurse: true,
         readme: "../README.md",
-        // template: "./node_modules/jsdoc-template",
+        template: "node_modules/clean-jsdoc-theme",
         // hostname: "pippo"
     },
     "cionzo": {
