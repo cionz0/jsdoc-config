@@ -28,6 +28,6 @@
   "homepage": "https://github.com/cionz0/jsdoc-config#readme",
   "install_from_git": "only",
   "dependencies": {
-    "jsdoc-template": "github:braintree/jsdoc-template"
+    "clean-jsdoc-theme": "^4.2.18"
   }
 }
