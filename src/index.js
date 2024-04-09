@@ -10,7 +10,7 @@ const exec = require("child_process").exec;
 if (require.main === module){
     const config_file = ".jsdoc_config.js"
     console.log("Setting config file");
-    fs.writeFileSync(`./${config_file}`, "module.exports = require(\"@cionzo/jsdoc-config/config\")");
+    fs.writeFileSync(`./${config_file}`, "module.exports = require(\"@cionzo/jsdoc-config/src/config\")");
     console.log("Installing jsdoc")
     exec("npm install --save-dev jsdoc")
     console.log("Updating package.json");
